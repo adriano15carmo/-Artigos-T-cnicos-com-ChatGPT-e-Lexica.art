@@ -1,42 +1,48 @@
-# Desafio da  aula Criando um Ebook com ChatGPT & MidJourney 
+# Projeto  artigo técnico gerado por I.A.S 
 
  *NOTE:* Este é o repositório desenvolvido durante o curso no qual fui aluno  na plataforma da DIO
 
-Obs.: A ferramenta prposta  stava indisponivel pata gerar imagem gratuitamente, foi gerado imagem Adob Firefly.
 
-## 📚 Tecnologia Utilizada:
 
-- [Adobe Firefly](https://firefly.adobe.com/inspire/images?ff_channel=adobe_com&ff_campaign=feature_page&ff_source=firefly_seo)
+## 📚 Tecnologia Utilizada no prpjeto:
 
+- [lexica.art](https://lexica.art/)
 
 - [Readme.so](https://readme.so/pt/editor)
 
 - [ChatGPT](https://chatgpt.com/auth/login?sso)
 
-- [powerpoint](https://www.microsoft.com/en/microsoft-365/powerpoint?market=af)
+- [Impress](https://www.office.org/pt-br/)
 
 
-## ebook
- [Clica aqui para ler](https://github.com/adriano15carmo/ebook-chatgpt/blob/main/output/Ebook.pdf)
+## Artigo
+ [Clica aqui para ler o artigo]()
 
 
 ## 📖 Prompt
 ChatGPT:
 |Ação|Prompt|
 |----|------|
-|título|Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos|
-|conteúdo|Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico|
+|Título|Crie 10 headlines para nomes de artigos sobre o assunto HTML
 
-Adobe Firefly:
 |Ação|Prompt|
 |----|------|
-|título| Create a futuristic computational image, in a black tone with light green. containing symbol|
+|Conteudo|Criar  um artigo  educacional da linguagem de marcação HTML , comporta se como fosse  o  professor  Bonieky Lacerda  da B7web me orientando á estudar. Com exemplos simples de aplicação .Usando um tom de vós  como estivesse explicando para desenvolvedores júnior .
+{REGRAS}
+- O que é HTML e para que serve
+- Quais  softwares eu posso usar;
+- Onde eu crio os arquivos
+- Atributos
+- Estrutura básica 
+
+.No léxica utilizei o acervo público de imagens geradas por outras pessoas.
+.A base da ideologia do artigo foi com base no curso da B7web
 
 ## ✨Features
 * Conteúdo gerado via ChatGPT
-* Imagens geradas via Adobe Firefly
+* Imagens do acervo público geradas via Lexica.art
 ## 📚
 * Imagens utilizadas em assets
-* ebook gerado durante as aulas em output
+* Artigo gerado durante as aulas criando Artigos Técnicos com ChatGPT e Lexica.art
 ## 🛠 Instruções de execução
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice.
