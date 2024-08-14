@@ -16,7 +16,7 @@
 
 
 ## Artigo
- [Clica aqui para ler o artigo]()
+ [Clica aqui para ler o artigo](https://github.com/adriano15carmo/-Artigos-T-cnicos-com-ChatGPT-e-Lexica.art/tree/main/PDF_artigo)
 
 
 ## 📖 Prompt
